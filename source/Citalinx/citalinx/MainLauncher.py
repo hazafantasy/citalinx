@@ -6,3 +6,4 @@ Created on Mar 27, 2016
 
 if __name__ == '__main__':
     print("Hello Citalinx")
+    print("Another dummy Hello World")
